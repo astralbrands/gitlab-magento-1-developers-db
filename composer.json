@@ -1,5 +1,5 @@
 {
     "name": "astral/magento1devdb",
     "description": "Astral Brands Magento EE",
-	"type": "magento-core",
+	"type": "magento-core"
 }
